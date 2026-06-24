@@ -1,6 +1,8 @@
 # ETL---POWER-BI---Transacciones-EXCEL_OLAP
 ETL - POWER BI - Transacciones EXCEL_OLAP
 
+##Nota en el proyecto se deja toda la documentacion necesaria para revisar el proyecto archivos .sql , querys usados , .pbix (power bi).
+
 #PASOS PARA LA CREACION DEL PROYECTO PASANDO DATOS DE EXCEL A SQL 
 
 #Paso 1 – staging_raw
