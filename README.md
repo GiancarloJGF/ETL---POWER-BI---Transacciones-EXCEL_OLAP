@@ -1,7 +1,12 @@
 # ETL---POWER-BI---Transacciones-EXCEL_OLAP
 ETL - POWER BI - Transacciones EXCEL_OLAP
 
-#Paso 1 – staging_financial
+#PASOS PARA LA CREACION DEL PROYECTO PASANDO DATOS DE EXCEL A SQL 
+
+#Paso 1 – staging_raw
+
+enlace con los pasos a seguir: 
+https://github.com/GiancarloJGF/ETL---POWER-BI---Transacciones-EXCEL_OLAP/blob/main/excel_%20llenar%20tablas.sql
 
 Una tabla plana con todas las columnas del Excel tal cual. Acá es donde cargas el archivo (via COPY, un importador, o tu ETL).
 
@@ -24,3 +29,4 @@ ON CONFLICT (country_name) DO NOTHING;
 Luego fact_sales se carga haciendo JOIN a todas las dimensiones para traer los IDs foráneos. El ON CONFLICT DO NOTHING hace el proceso idempotente (puedes correrlo varias veces sin duplicar).
 
 Al final hay una query de verificación que muestra cuántas filas quedaron en cada tabla. Con 700 filas en el Excel deberías ver: 5 segmentos, 5 países, 6 productos, 4 discount bands, y 700 hechos.
+#
