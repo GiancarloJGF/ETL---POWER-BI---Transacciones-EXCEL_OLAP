@@ -3,6 +3,12 @@ ETL - POWER BI - Transacciones EXCEL_OLAP
 
 ##Nota en el proyecto se deja toda la documentacion necesaria para revisar el proyecto archivos .sql , querys usados , .pbix (power bi).
 
+##HERRAMINETAS USADAS: 
+A. Microsoft SQL Server Management Studio 22 https://learn.microsoft.com/es-es/ssms/install/install
+B. integration services visual studio 2022 https://marketplace.visualstudio.com/items?itemName=SSIS.MicrosoftDataToolsIntegrationServices
+C. analysis services visual studio 2022 https://marketplace.visualstudio.com/items?itemName=ProBITools.MicrosoftAnalysisServicesModelingProjects2022
+D. Power BI Desktop  https://apps.microsoft.com/detail/9ntxr16hnw1t?hl=es-MX&gl=NG
+
 #PASOS PARA LA CREACION DEL PROYECTO PASANDO DATOS DE EXCEL A SQL 
 
 #Paso 1 – staging_raw
