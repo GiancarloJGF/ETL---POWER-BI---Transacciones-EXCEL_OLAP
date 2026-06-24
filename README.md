@@ -5,7 +5,7 @@ ETL - POWER BI - Transacciones EXCEL_OLAP
 
 #Paso 1 – staging_raw
 
-enlace con los pasos a seguir: 
+enlace con los pasos a seguir creando tablas para la dimensiones para la creacion de cubo OLAP: 
 https://github.com/GiancarloJGF/ETL---POWER-BI---Transacciones-EXCEL_OLAP/blob/main/excel_%20llenar%20tablas.sql
 
 Una tabla plana con todas las columnas del Excel tal cual. Acá es donde cargas el archivo (via COPY, un importador, o tu ETL).
