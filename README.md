@@ -57,13 +57,23 @@ Se espera que el técnico limpie la información al momento de presentar los DAS
 
 📊 Hoja 1 – Ventas por Producto
 
+<img width="1105" height="863" alt="image" src="https://github.com/user-attachments/assets/7f0568a3-38fb-4647-bbb9-c65067092c34" />
+
 Agrupa las 700 transacciones por los 6 productos (Amarilla, Carretera, Montana, Paseo, Velo, VTT), mostrando unidades vendidas, ventas brutas, descuentos, ventas netas, COGS y ganancia — más un gráfico de barras comparativo.
 
 
 🗺️ Hoja 2 – Movimiento por País
 
+<img width="1099" height="839" alt="image" src="https://github.com/user-attachments/assets/b2b32e1a-f997-45ea-ab66-53d2c9927c78" />
+
+
 Detalla el comportamiento de cada producto por país (Canadá, Francia, Alemania, México, EE.UU.) desglosado además por segmento, con margen porcentual por fila.
+
+
 💰 Hoja 3 – Ganancias Concebidas
+
+<img width="1102" height="822" alt="image" src="https://github.com/user-attachments/assets/27675d91-68f0-447b-8c22-1b294b776022" />
+
 
 Tres secciones de rentabilidad:
 
