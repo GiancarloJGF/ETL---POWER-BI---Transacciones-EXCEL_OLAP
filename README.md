@@ -13,6 +13,20 @@ ETL - POWER BI - Transacciones EXCEL_OLAP
 
 https://github.com/GiancarloJGF/ETL---POWER-BI---Transacciones-EXCEL_OLAP/blob/main/NOTAS%20PARA%20INTEGRATION%20SERVICES%20de%20SQL%20a%20SQL.docx
 
+A. Flujo de control. 
+<img width="1565" height="655" alt="image" src="https://github.com/user-attachments/assets/1f97c8ae-b064-44b9-8d97-182663fcc59c" />
+
+B. Flujo de datos.
+<img width="1539" height="510" alt="image" src="https://github.com/user-attachments/assets/e3f95c83-374a-4070-bf2d-d8eb808fe501" />
+
+C. Origen de datos.
+<img width="1104" height="737" alt="image" src="https://github.com/user-attachments/assets/d17cd5db-497c-4a4c-b182-396e8fd4a8ec" />
+
+D. Destino de datos. 
+<img width="1171" height="772" alt="image" src="https://github.com/user-attachments/assets/ac3f96b0-3451-473a-a1e1-9d4fe0fd9592" />
+
+
+##Creacion Cubo-OLAP
 #Paso 1 – staging_raw
 
 enlace con los pasos a seguir creando tablas para la dimensiones para la creacion de cubo OLAP: 
