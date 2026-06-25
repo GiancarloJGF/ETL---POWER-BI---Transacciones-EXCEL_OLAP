@@ -3,7 +3,7 @@ ETL - POWER BI - Transacciones EXCEL_OLAP
 
 ##Nota en el proyecto se deja toda la documentacion necesaria para revisar el proyecto archivos .sql , querys usados , .pbix (power bi).
 
-##HERRAMINETAS USADAS: 
+##HERRAMIENTAS USADAS: 
 1. Microsoft SQL Server Management Studio 22 https://learn.microsoft.com/es-es/ssms/install/install
 2. integration services visual studio 2022 https://marketplace.visualstudio.com/items?itemName=SSIS.MicrosoftDataToolsIntegrationServices
 3. analysis services visual studio 2022 https://marketplace.visualstudio.com/items?itemName=ProBITools.MicrosoftAnalysisServicesModelingProjects2022
