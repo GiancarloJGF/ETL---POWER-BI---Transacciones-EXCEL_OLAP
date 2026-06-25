@@ -11,7 +11,7 @@ ETL - POWER BI - Transacciones EXCEL_OLAP
 
 #PASOS PARA LA CREACION DEL PROYECTO PASANDO DATOS DE SQL A SQL 
 
-##
+https://github.com/GiancarloJGF/ETL---POWER-BI---Transacciones-EXCEL_OLAP/blob/main/NOTAS%20PARA%20INTEGRATION%20SERVICES%20de%20SQL%20a%20SQL.docx
 
 #Paso 1 – staging_raw
 
@@ -67,14 +67,16 @@ Se espera que el técnico limpie la información al momento de presentar los DAS
 
 📊 Hoja 1 – Ventas por Producto
 
-<img width="1105" height="863" alt="image" src="https://github.com/user-attachments/assets/7f0568a3-38fb-4647-bbb9-c65067092c34" />
+<img width="669" height="390" alt="image" src="https://github.com/user-attachments/assets/ea57ad55-1314-4dea-a39a-7bde6b9a5a8a" />
+
 
 Agrupa las 700 transacciones por los 6 productos (Amarilla, Carretera, Montana, Paseo, Velo, VTT), mostrando unidades vendidas, ventas brutas, descuentos, ventas netas, COGS y ganancia — más un gráfico de barras comparativo.
 
 
 🗺️ Hoja 2 – Movimiento por País
 
-<img width="1099" height="839" alt="image" src="https://github.com/user-attachments/assets/b2b32e1a-f997-45ea-ab66-53d2c9927c78" />
+<img width="732" height="497" alt="image" src="https://github.com/user-attachments/assets/97964634-4bdc-469e-8b1e-91a9cf436985" />
+
 
 
 Detalla el comportamiento de cada producto por país (Canadá, Francia, Alemania, México, EE.UU.) desglosado además por segmento, con margen porcentual por fila.
@@ -82,7 +84,11 @@ Detalla el comportamiento de cada producto por país (Canadá, Francia, Alemania
 
 💰 Hoja 3 – Ganancias Concebidas
 
-<img width="1102" height="822" alt="image" src="https://github.com/user-attachments/assets/27675d91-68f0-447b-8c22-1b294b776022" />
+<img width="711" height="431" alt="image" src="https://github.com/user-attachments/assets/d9a17c6a-f9d8-44d1-81a6-2a1f07f3a9ff" />
+
+<img width="712" height="303" alt="image" src="https://github.com/user-attachments/assets/3f3d8cf2-b3b2-47b9-8593-6504eb7e7be5" />
+
+
 
 
 Tres secciones de rentabilidad:
