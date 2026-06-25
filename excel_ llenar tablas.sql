@@ -149,7 +149,7 @@ WHERE  segment IS NOT NULL
     SELECT 1 FROM dim_segment WHERE segment_name = staging_raw.segment
   );
 
-  select * from [dbo].[dim_segment]
+  select * from dim_country
 
   -- dim_country
 INSERT INTO dim_country (country_name)
@@ -255,9 +255,9 @@ JOIN dim_country       c   ON c.country_name        = s.country
 JOIN dim_product       p   ON p.product_name        = s.product
 JOIN dim_discount_band db  ON db.discount_band_name = ISNULL(s.discount_band, 'None');
 
+ select * from [dbo].[fact_sales_2]
+ select * from [dbo].[staging_raw]
  select * from [dbo].[fact_sales]
-
-
 
 
 -- VERIFICACIÓN RÁPIDA
