@@ -9,7 +9,7 @@ ETL - POWER BI - Transacciones EXCEL_OLAP
 3. analysis services visual studio 2022 https://marketplace.visualstudio.com/items?itemName=ProBITools.MicrosoftAnalysisServicesModelingProjects2022
 4. Power BI Desktop  https://apps.microsoft.com/detail/9ntxr16hnw1t?hl=es-MX&gl=NG
 
-#PASOS PARA LA CREACION DEL PROYECTO PASANDO DATOS DE SQL A SQL 
+#PASOS PARA LA CREACION DEL PROYECTO PASANDO DATOS DE SQL A SQL con integration services visual studio 2022.
 
 https://github.com/GiancarloJGF/ETL---POWER-BI---Transacciones-EXCEL_OLAP/blob/main/NOTAS%20PARA%20INTEGRATION%20SERVICES%20de%20SQL%20a%20SQL.docx
 
